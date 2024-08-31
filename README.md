@@ -1,2 +1,2 @@
-# Vrinda_Store-_Sales_Analysis
+# Vrinda_Store_Sales_Analysis
 This is my First Git Repository
